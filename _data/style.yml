@@ -1,10 +1,11 @@
 #Color Customization
-#highlight: "#54bfff"
-#white: "#FF0000"
-#black: "#000"
+primary: "#025486"
+highlight: "#54bfff"
+white: "#FFF"
+black: "#292929"
 
 #Image Customization
-header-image: "../img/header.png"
+header-image: "../img/long-john-placeholder-header.png"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for menu grid when an item is hovered over
