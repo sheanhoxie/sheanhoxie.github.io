@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  menu:
+    title: "Menu"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: menu
     closebutton: "Close Project"
 
   timeline:
@@ -189,7 +189,7 @@ es: &DEFAULT_ES
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
-  portfolio:
+  menu:
     title: "Portafolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio

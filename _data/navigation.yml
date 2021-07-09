@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Locations"
       section: locations
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Menu"
+      section: menu
     - title: "About"
       section: timeline
     - title: "Team"
