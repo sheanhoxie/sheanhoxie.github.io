@@ -38,35 +38,35 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "How it began"
+    text: "The salty tale of our deep seated hatred of all things Squid"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Road Trip"
+        year: "1997"
+        desc: "The fateful day started out much like any other. A day filled with joy, meth, and laughter..."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Rage Induced Coma"
+        year: "1997-2001"
+        desc: "Tim was induced into a coma seemingly by his hatred of squid alone..."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Calamari Tim's is born"
+        year: "2002"
+        desc: "After Tim settled his lawsuit with the state..."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Calamari Tim's vs. Tim's Calamari"
+        year: "2002-(ongoing)"
+        desc: "Let's face facts, Tim's Calamari is fucking garbage..."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Become a part <br> of the <br> Calamari Tim's <br> mistake!"
 
   about:
     title: "About Us"
