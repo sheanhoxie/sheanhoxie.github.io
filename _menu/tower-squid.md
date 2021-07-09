@@ -3,12 +3,12 @@
 caption: 
   title: Leaning Tower of Squid
   subtitle: World's largest tower of squid!
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets\img\menu\calamari-03.jpg
   
 #what displays when the item is clicked:
 title: Leaning Tower of Squid
 subtitle: (formerly Leaning Tower of Flaming Squid)
-image: https://place-hold.it/400x300
+image: assets\img\menu\calamari-03.jpg
 alt: Leaning Tower of Squid
 
 ---

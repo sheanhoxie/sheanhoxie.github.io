@@ -5,6 +5,7 @@ white: "#FFF"
 black: "#292929"
 
 #Image Customization
+navbar-bottom-border: "../img/navbar-bottom-border.png"
 header-image: "../img/long-john-placeholder-header.png"
 contact-image: "../img/contact.png"
 

@@ -3,12 +3,12 @@
 caption: 
   title: Squid 3-ways
   subtitle: It's a Squid Ménage à Trois
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets\img\menu\calamari-02.jpg
   
 #what displays when the item is clicked:
 title: Squid 3-ways
 subtitle: When you eat squid, do you wanna get fingered, or do you wanna get fucked?
-image: https://place-hold.it/400x300
+image: assets\img\menu\calamari-02.jpg
 alt: Squid 3-ways
 
 ---

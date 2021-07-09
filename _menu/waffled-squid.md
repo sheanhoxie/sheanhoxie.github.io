@@ -3,12 +3,12 @@
 caption: 
   title: Waffled Squid
   subtitle: It's Squid, waffled
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets\img\menu\calamari-04.jpg
   
 #what displays when the item is clicked:
 title: Waffled Squid
 subtitle: (currently unavailable)
-image: https://place-hold.it/400x300
+image: assets\img\menu\calamari-04.jpg
 alt: Leaning Tower of Squid
 
 ---

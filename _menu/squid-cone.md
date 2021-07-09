@@ -3,12 +3,12 @@
 caption: 
   title: Squid Cone
   subtitle: Ice cold squid (soft served)
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets\img\menu\calamari-01.jpg
   
 #what displays when the item is clicked:
 title: Squid Cone
 subtitle: It's not dripping, it's squirting
-image: https://place-hold.it/400x300
+image: assets\img\menu\calamari-01.jpg
 alt: Squid Cone
 
 ---
